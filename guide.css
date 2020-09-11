@@ -1,0 +1,108 @@
+body {
+    font-family: 'NanumSquare', sans-serif;
+     }
+#guide{
+    
+    background-color: white;
+    text-align: left;
+    width: 50%;
+    height: auto;
+    position: relative;
+    margin: 0px auto;
+}
+.highlight{
+    color: darkseagreen;
+    display: inline;
+}
+.title{
+    padding-top: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.step1_title{
+    margin: 20px;
+    font-weight: 12px;
+    font-size: 17px;
+}
+.box1{
+    border: 1px black solid;
+    border-radius: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-right: 7px;
+    font-size: 14px;
+    display: inline;
+}
+.step1{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img1{
+    height: auto;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+.img2{
+    height: auto;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+li{
+    float: left;
+    margin-left: -25px;
+    margin-bottom: 15px;
+}
+.step2_title{
+    margin: 20px;
+    font-weight: 12px;
+    font-size: 17px;
+}
+.box2{
+    border: 1px black solid;
+    border-radius: 10px;
+    margin-right: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size: 14px;
+    display: inline;
+}
+#content2{
+    width: auto;
+    background-color: lightgray;
+    padding-bottom: 20px;
+}
+.app_guide{
+    background-color: lightgray;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    position: relative;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+.web_guide_title{
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+}
+.a3{
+    max-width: 100px;
+    max-height: 100px;
+    display: inline;
+    margin: auto;
+}
+.a4, .a5, .a6, .a7{
+    background-color: white;
+    margin: auto;
+    border-radius: 7px;
+    width: 60px;
+    height: auto;
+    box-shadow: 0px 0px 5px 1px gray;
+    padding-top: 4px;
+    margin-top: 50px;
+}
